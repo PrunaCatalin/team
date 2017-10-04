@@ -14,19 +14,19 @@ Team Manuta
 [lvl 1] [index.php]
 [lvl 1] [TODO.txt]
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+### Task List
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```
+- [x] Start Project
+- [ ] Select team for project
+- [ ] Choose Theme for project
+```
 
 ### Support or Contact
 
 @Pruna Catalin
+
+### Code Marks
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
