@@ -6,6 +6,8 @@ Team Manuta
 ###Team LIST
 - [X] Pruna Catalin
 - [X] Mares Mihai
+- [X] Samareanu Ana
+- [X] Ceausu Sorin
 
 ### Structure List
 
