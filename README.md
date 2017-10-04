@@ -3,7 +3,9 @@ Team Manuta
 
 ![Image](https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/22228167_169763890245291_5178230128166281096_n.jpg?oh=0ad413c7d75eca18618dbbbc456f6468&oe=5A82C655)
 
-
+###Team LIST
+- [X] Pruna Catalin
+- [X] Mares Mihai
 
 ### Structure List
 
