@@ -7,8 +7,7 @@
  * Vestibulum commodo. Ut rhoncus gravida arcu.
  */
 
-namespace upgploiesti;
-
+namespace upgploiesti\classRoom;
 /**
  * Created by Pruna Catalin.
  * User: Catalin
@@ -16,7 +15,13 @@ namespace upgploiesti;
  * Time: 10:15 AM
  */
 
-$startAplication = date("d-m-y",time()); // date start
-$endAplication = date("d-m-y",time()); // date end
 
-?>
+class Application{
+    /*
+     * Start Application
+     * @no params
+     */
+    public static function initApp(){
+
+    }
+}
